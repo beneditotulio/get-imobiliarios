@@ -3,6 +3,8 @@ import { Fragment } from 'react';
 import { Menu, Transition } from '@headlessui/react';
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
 import './i18n/config';
+import { SearchBar } from './components/SearchBar';
+import { PropertyCard } from './components/PropertyCard';
 
 function App() {
   const { t, i18n } = useTranslation();
