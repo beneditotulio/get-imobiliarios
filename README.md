@@ -39,7 +39,7 @@ Professional real estate website for Get Imobiliários e Serviços, built with .
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/get-imobiliarios.git
+git clone https://github.com/beneditotulio/get-imobiliarios.git
 cd get-imobiliarios
 ```
 
